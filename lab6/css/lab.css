@@ -9,10 +9,9 @@ div#content {
     padding: 50px;
     background-color: lightgray;
     border: solid 1px #333333;
-    height: 80vh;
 }
 
-h1, h2, h3 {
+h1, h2 {
     font-family: "Courier New", monospace;
 }
 
