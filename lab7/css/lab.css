@@ -16,10 +16,11 @@ h1, h2 {
     font-family: "cursive", monospace;
 }
 
-img {
+img#dog {
     float: right;
-    width: 400px;
+    width: auto;
     height: auto;
+
 }
 
 a {
