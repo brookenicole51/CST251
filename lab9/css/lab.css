@@ -7,7 +7,7 @@ body {
 
 div#content {
     padding: 50px;
-    background-color: #blue;
+    background-color: blue;
     border: solid 1px #333333;
     height: auto;
     margin-bottom: 50px;
