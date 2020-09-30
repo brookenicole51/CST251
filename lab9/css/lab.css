@@ -12,13 +12,16 @@ div#content {
     height: auto;
 }
 
+div.head{
+    margin-left: auto;
+}
+
 h1, h2 {
     font-family: "cursive", monospace;
 }
 
 img {
-    float: right;
-    width: auto;
+    width: 500;
     height: auto;
 
 }
