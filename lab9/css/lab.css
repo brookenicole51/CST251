@@ -1,13 +1,13 @@
 body {
     font-family: cursive "san serif";
-    background-color: orange;
+    background-color: green;
     padding: 25px;
     font-size: 120%;
 }
 
 div#content {
     padding: 50px;
-    background-color: #ffcd83cf;
+    background-color: #blue;
     border: solid 1px #333333;
     height: auto;
     margin-bottom: 50px;
