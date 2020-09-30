@@ -7,8 +7,8 @@ body {
 
 div#content {
     padding: 50px;
-    background-color: #blue;
-    border: solid 1px #green;
+    background-color: #green;
+    border: solid 1px #blue;
     height: auto;
     margin-bottom: 50px;
 }
