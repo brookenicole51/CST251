@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Dancing Script', cursive; sans-serif;
     background-color: orange;
     padding: 25px;
     font-size: 120%;
@@ -13,6 +13,7 @@ div#content {
 }
 
 div.head {
+    font-family: 'Courgette', cursive;
     padding: 25px;
     background-color: #sienna;
     border: solid 1px #333333;
