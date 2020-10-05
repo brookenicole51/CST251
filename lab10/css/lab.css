@@ -13,7 +13,6 @@ div#content {
 }
 
 div.head {
-    font-family: 'Courgette', cursive;
     padding: 25px;
     background-color: #sienna;
     border: solid 1px #333333;
@@ -42,7 +41,7 @@ div.pumpkinpic {
     height: auto;
 }
 h1, h2 {
-    font-family: "cursive", monospace;
+    font-family: 'Courgette', cursive;
 }
 
 img {
