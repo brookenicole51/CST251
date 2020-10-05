@@ -14,21 +14,21 @@ div#content {
 
 div.head {
     padding: 25px;
-    background-color: #sienna;
+    background-color: sienna;
     border: solid 1px #333333;
     height: auto;
 }
 
 div.challenges {
     padding: 25px;
-    background-color: #sienna;
+    background-color: sienna;
     border: solid 1px #333333;
     height: auto;
 }
 
 div.results {
     padding: 25px;
-    background-color: #sienna;
+    background-color: sienna;
     border: solid 1px #333333;
     height: auto;
     margin-bottom: 50px;
@@ -36,7 +36,7 @@ div.results {
 
 div.pumpkinpic {
     padding: 50px;
-    background-color: #sienna;
+    background-color: sienna;
     border: solid 1px #333333;
     height: auto;
 }
