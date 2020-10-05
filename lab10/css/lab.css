@@ -14,7 +14,7 @@ div#content {
 }
 
 div.head {
-    padding: 50px;
+    padding: 25px;
     background-color: #ffcd83cf;
     border: solid 1px #333333;
     height: auto;
@@ -22,7 +22,7 @@ div.head {
 }
 
 div.challenges {
-    padding: 50px;
+    padding: 25px;
     background-color: #ffcd83cf;
     border: solid 1px #333333;
     height: auto;
@@ -30,7 +30,7 @@ div.challenges {
 }
 
 div.results {
-    padding: 50px;
+    padding: 25px;
     background-color: #ffcd83cf;
     border: solid 1px #333333;
     height: auto;
