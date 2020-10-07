@@ -40,26 +40,21 @@ div.pumpkinpic {
     border: solid 1px #333333;
     height: auto;
 }
+
 h1, h2 {
     font-family: 'Courgette', cursive;
-}
-
-
-h1 {
-    letter-spacing: 10px;
-    text-transform: uppercase;
 }
 
 img {
     width: 350px;
     height: auto;
-
 }
 
 a {
     text-decoration: none;
     color: maroon;
 }
+
 a:hover {
     text-decoration: underline;
     text-decoration-style: wavy;
