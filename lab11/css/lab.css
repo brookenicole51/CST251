@@ -1,0 +1,61 @@
+body {
+    font-family: 'Dancing Script', cursive; sans-serif;
+    background-color: blue;
+    padding: 25px;
+    font-size: 120%;
+}
+
+div#content {
+    padding: 50px;
+    background-color: cornflowerblue
+    border: solid 1px black;
+    height: auto;
+}
+
+div.head {
+    padding: 25px;
+    background-color: cadetblue;
+    border: solid 1px black;
+    height: auto;
+}
+
+div.challenges {
+    padding: 25px;
+    background-color: cadetblue;
+    border: solid 1px black;
+    height: auto;
+}
+
+div.results {
+    padding: 25px;
+    background-color: cadetblue;
+    border: solid 1px black;
+    height: auto;
+    margin-bottom: 50px;
+}
+
+div.pumpkins {
+    padding: 50px;
+    background-color: cadetblue;
+    border: solid 1px black;
+    height: auto;
+}
+
+h1, h2 {
+    font-family: 'Courgette', cursive;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
