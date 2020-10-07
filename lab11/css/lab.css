@@ -37,17 +37,29 @@ div.results {
 div.pumpkins {
     padding: 50px;
     background-color: cadetblue;
-    border: solid 1px black;
+    border: solid 10px black;
     height: auto;
+    inline-size: min-content
 }
 
 h1, h2 {
     font-family: 'Courgette', cursive;
 }
 
+span.head {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+
 img {
     width: 350px;
     height: auto;
+    border-radius: 50%
+    border: dotted 10px orange:
 }
 
 a {
