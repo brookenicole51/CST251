@@ -1,6 +1,6 @@
 body {
     font-family: 'Dancing Script', cursive; sans-serif;
-    background-color: blue;
+    background-image: url(https://inchemistry.acs.org/content/inchemistry/en/atomic-news/fall-leaves/_jcr_content/articleContent/image_2026153050.img.jpg/1541612501274.jpg);
     padding: 25px;
     font-size: 120%;
 }
@@ -14,21 +14,21 @@ div#content {
 
 div.head {
     padding: 25px;
-    background-color: cadetblue;
+    background-color: darkred;
     border: solid 1px black;
     height: auto;
 }
 
 div.challenges {
     padding: 25px;
-    background-color: cadetblue;
+    background-color: darkred;
     border: solid 1px black;
     height: auto;
 }
 
 div.results {
     padding: 25px;
-    background-color: cadetblue;
+    background-color: darkred;
     border: solid 1px black;
     height: auto;
     margin-bottom: 50px;
@@ -36,7 +36,7 @@ div.results {
 
 div.pumpkins {
     padding: 50px;
-    background-color: cadetblue;
+    background-color: darkred;
     border: solid 10px black;
     height: auto;
     inline-size: min-content
@@ -48,18 +48,21 @@ h1, h2 {
 
 div.fall {
   display: inline-block;
-  width: 100px;
-  height: 100px;
+  height: 60px;
   padding: 5px;
-  border: 1px solid blue;
-  background-color: yellow;
+  border: 1px solid black;
+  background-color: indianred;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  text-align: center;
 }
 
 img {
     width: 350px;
     height: auto;
-    border-radius: 50%
-    border: dotted 10px orange:
+    border-radius: 50%;
+    border: dotted 10px orange;
 }
 
 a {
