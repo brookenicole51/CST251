@@ -55,6 +55,8 @@ div.center-both {
 }
 
 div.overflow {
+  margin-left: auto;
+  margin-right: auto;
   position: relative;
   overflow: scroll;
   width: 150px;
@@ -62,8 +64,9 @@ div.overflow {
 }
 
 div.overflow img {
-  width: 100%;
+  width: 500px;
   height: auto;
+  border: none;
 }
 
 
