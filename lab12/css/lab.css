@@ -59,8 +59,8 @@ div.overflow {
   margin-right: auto;
   position: relative;
   overflow: scroll;
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
 }
 
 div.overflow img {
