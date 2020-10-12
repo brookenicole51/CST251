@@ -1,34 +1,34 @@
 body {
-    font-family: 'Dancing Script', cursive; sans-serif;
-    background: black;
+    font-family: 'Dancing Script', cursive, sans-serif;
+    background color: maroon;
     padding: 25px;
     font-size: 120%;
 }
 
 div#content {
     padding: 50px;
-    background-color: cornflowerblue
+    background-color: bisque
     border: solid 1px black;
     height: auto;
 }
 
 div.head {
     padding: 25px;
-    background-color: darkred;
+    background-color: saddlebrown;
     border: solid 1px black;
     height: 30%;
 }
 
 div.challenges {
     padding: 25px;
-    background-color: darkred;
+    background-color: saddlebrown;
     border: solid 1px black;
     height: 30%;
 }
 
 div.results {
     padding: 25px;
-    background-color: darkred;
+    background-color: saddlebrown;
     border: solid 1px black;
     height: 30%;
     margin-bottom: 50px;
@@ -41,8 +41,7 @@ h1, h2 {
 img {
     width: 350px;
     height: auto;
-    border-radius: 50%;
-    border: dotted 10px orange;
+    border: double 15px saddlebrown;
 }
 
 a {
