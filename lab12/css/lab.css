@@ -41,6 +41,7 @@ div.floated {
 
 div.center-horz {
   text-align: center;
+  clear: right;
 }
 
 div.center-img {
