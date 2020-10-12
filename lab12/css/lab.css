@@ -36,6 +36,7 @@ div.results {
 
 div.floated {
   float: right;
+  clear: right;
 }
 
 div.center-horz {
@@ -43,11 +44,13 @@ div.center-horz {
 }
 
 div.center-img {
-  align-content: horitonal center;
+  height: auto;
+  position: relative;
 }
 
 div.center-both {
-  center: everyhting;
+  height:
+  position: relative;
 }
 
 h1, h2 {
@@ -55,6 +58,9 @@ h1, h2 {
 }
 
 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 150px;
     height: auto;
     border: double 15px saddlebrown;
