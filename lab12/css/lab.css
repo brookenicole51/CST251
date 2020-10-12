@@ -1,5 +1,5 @@
 body {
-    font-family: 'Dancing Script', cursive, sans-serif;
+    font-family: sans-serif;
     background-color: maroon;
     padding: 25px;
     font-size: 120%;
@@ -50,12 +50,25 @@ div.center-img {
 }
 
 div.center-both {
-  height:
+  height: auto;
   position: relative;
 }
 
+div.overflow {
+  position: relative;
+  overflow: scroll;
+  width: 150px;
+  height: 150px;
+}
+
+div.overflow img {
+  width: 100%;
+  height: auto;
+}
+
+
 h1, h2 {
-    font-family: 'Courgette', cursive;
+    font-family: sans-serif;
 }
 
 img {
