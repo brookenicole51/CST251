@@ -1,13 +1,13 @@
 body {
     font-family: 'Dancing Script', cursive, sans-serif;
-    background color: maroon;
+    background-color: maroon;
     padding: 25px;
     font-size: 120%;
 }
 
 div#content {
     padding: 50px;
-    background-color: bisque
+    background-color: bisque;
     border: solid 1px black;
     height: auto;
 }
@@ -34,12 +34,28 @@ div.results {
     margin-bottom: 50px;
 }
 
+div.floated {
+  float: right;
+}
+
+div.center-horz {
+  text-align: center;
+}
+
+div.center-img {
+  align-content: horitonal center;
+}
+
+div.center-both {
+  center: everyhting;
+}
+
 h1, h2 {
     font-family: 'Courgette', cursive;
 }
 
 img {
-    width: 350px;
+    width: 150px;
     height: auto;
     border: double 15px saddlebrown;
 }
