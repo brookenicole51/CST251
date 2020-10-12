@@ -1,0 +1,56 @@
+body {
+    font-family: 'Dancing Script', cursive; sans-serif;
+    background-image: url(https://inchemistry.acs.org/content/inchemistry/en/atomic-news/fall-leaves/_jcr_content/articleContent/image_2026153050.img.jpg/1541612501274.jpg);
+    padding: 25px;
+    font-size: 120%;
+}
+
+div#content {
+    padding: 50px;
+    background-color: cornflowerblue
+    border: solid 1px black;
+    height: auto;
+}
+
+div.head {
+    padding: 25px;
+    background-color: darkred;
+    border: solid 1px black;
+    height: 30%;
+}
+
+div.challenges {
+    padding: 25px;
+    background-color: darkred;
+    border: solid 1px black;
+    height: 30%;
+}
+
+div.results {
+    padding: 25px;
+    background-color: darkred;
+    border: solid 1px black;
+    height: 30%;
+    margin-bottom: 50px;
+}
+
+h1, h2 {
+    font-family: 'Courgette', cursive;
+}
+
+img {
+    width: 350px;
+    height: auto;
+    border-radius: 50%;
+    border: dotted 10px orange;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: double;
+}
