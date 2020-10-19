@@ -16,6 +16,11 @@ h1, h2 {
     font-family: "Courier New", monospace;
 }
 
+h1 {
+  font-style: capitalize;
+  
+}
+
 img {
     width: 400px;
     height: auto;
