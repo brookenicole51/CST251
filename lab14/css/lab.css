@@ -3,6 +3,7 @@ body {
     background-image: url(https://images.unsplash.com/photo-1536383389102-0ac333c44981?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80);
     padding: 0px;
     font-size: 120%;
+    letter-spacing: 2px;
 }
 
 div#content {
@@ -20,6 +21,10 @@ img {
     height: auto;
 }
 
+img.book {
+  width: 5px;
+}
+
 img.title {
   display: block;
   min-width: 640px;
@@ -31,9 +36,9 @@ img.title {
 
 a {
     text-decoration: none;
-    color: maroon;
+    color: chocolate;
 }
 a:hover {
-    text-decoration: underline;
-    text-decoration-style: wavy;
+    text-decoration: none;
+    text-decoration-style: none;
 }
