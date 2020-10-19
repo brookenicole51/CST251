@@ -16,10 +16,13 @@ h1, h2 {
     font-family: "Courier New", monospace;
 }
 
-h1 {
-  font-style: capitalize;
-  
+iframe#fake {
+    width: 800px;
+    height: 500px;
+    resize: both;
+    overflow: hidden;
 }
+
 
 img {
     width: 400px;
