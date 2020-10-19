@@ -16,18 +16,12 @@ h1, h2 {
     font-family: "Courier New", monospace;
 }
 
-iframe#fake {
-    width: 800px;
-    height: 500px;
-    resize: both;
-    overflow: hidden;
-}
-
 
 img {
     width: 400px;
     height: auto;
 }
+
 
 a {
     text-decoration: none;

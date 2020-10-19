@@ -28,6 +28,12 @@ img {
     height: auto;
 }
 
+div.title {
+  min-width: 640px;
+  width: 100%;
+  
+}
+
 a {
     text-decoration: none;
     color: maroon;
