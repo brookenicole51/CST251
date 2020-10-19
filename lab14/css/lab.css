@@ -20,7 +20,7 @@ img {
     height: auto;
 }
 
-div.title img {
+img.title {
   display: block;
   min-width: 640px;
   width: 100%;
