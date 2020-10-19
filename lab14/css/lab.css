@@ -17,12 +17,8 @@ h1, h2 {
 
 
 img {
-    width: 400px;
+    width: 5px;
     height: auto;
-}
-
-img.icon {
-  width: 5px;
 }
 
 img.title {
@@ -34,9 +30,13 @@ img.title {
   background: none;
 }
 
+img.icon {
+  padding: 10px;
+}
+
 a {
     text-decoration: none;
-    color: chocolate;
+    color: saddlebrown;
 }
 a:hover {
     text-decoration: none;
