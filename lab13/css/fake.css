@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica, Verdana, Arial, "san serif";
-    background-image: <img src="img/sky.jpeg">;
+    background-image: image(img/sky.jpeg);
     padding: 25px;
     font-size: 120%;
 }
