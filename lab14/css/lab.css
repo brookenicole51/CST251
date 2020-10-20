@@ -32,14 +32,11 @@ img.title {
   transform: translate(-50%, -50%);
 }
 
-p.ptp {
-  float: right;
-}
-
 a {
     text-decoration: none;
     color: #964B00;
 }
+
 a:hover {
     text-decoration: none;
     text-decoration-style: none;
