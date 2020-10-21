@@ -1,7 +1,7 @@
 body {
     font-family: 'Dancing Script', cursive; sans-serif;
     background-image: linear-gradient(orange, black);
-    padding: 25px;
+    padding: 50px;
     font-size: 120%;
 }
 
@@ -14,7 +14,7 @@ div#content {
 
 div.head {
     padding: 25px;
-    background-color: sienna;
+    background-color: sandybrown;
     border: solid 1px #333333;
     height: auto;
     box-shadow: 5px orange
@@ -22,7 +22,7 @@ div.head {
 
 div.challenges {
     padding: 25px;
-    background-color: sienna;
+    background-color: sandybrown;
     border: solid 1px #333333;
     height: auto;
     box-shadow: 5px orange
@@ -30,7 +30,7 @@ div.challenges {
 
 div.results {
     padding: 25px;
-    background-color: sienna;
+    background-color: sandybrown;
     border: solid 1px #333333;
     height: auto;
     margin-bottom: 50px;
@@ -72,10 +72,10 @@ img {
 
 a {
     text-decoration: none;
-    color: maroon;
+    color: sandybrown;
 }
 
 a:hover {
     text-decoration: underline;
-    text-decoration-style: wavy;
+    text-decoration-style: solid;
 }
