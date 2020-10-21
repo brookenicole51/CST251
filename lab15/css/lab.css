@@ -28,7 +28,7 @@ div.challenges {
     box-shadow: 5px orange
 }
 
-div.border {
+.border {
   object-fit: contain;
 }
 
