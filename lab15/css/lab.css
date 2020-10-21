@@ -1,0 +1,82 @@
+body {
+    font-family: 'Dancing Script', cursive; sans-serif;
+    background-image: linear-gradient(orange, black);
+    padding: 25px;
+    font-size: 120%;
+}
+
+div#content {
+    padding: 50px;
+    background-color: #ffcd83cf;
+    border: solid 1px #333333;
+    height: auto;
+}
+
+div.head {
+    padding: 25px;
+    background-color: sienna;
+    border: solid 1px #333333;
+    height: auto;
+    box-shadow: 5px orange
+}
+
+div.challenges {
+    padding: 25px;
+    background-color: sienna;
+    border: solid 1px #333333;
+    height: auto;
+    box-shadow: 5px orange
+}
+
+div.results {
+    padding: 25px;
+    background-color: sienna;
+    border: solid 1px #333333;
+    height: auto;
+    margin-bottom: 50px;
+    box-shadow: 5px orange
+}
+
+div.pumpkinpic {
+    padding: 50px;
+    background-color: sienna;
+    border: solid 1px #333333;
+    height: auto;
+    float: right;
+    filter: drop-shadow(8px 8px 10px black);
+}
+
+div.halloween {
+    padding: 50px;
+    background-color: sienna;
+    border: solid 1px #333333;
+    height: auto;
+    object-fit: cover;
+    border-radius: 30px;
+    transform: scale(1.5);
+}
+
+
+h1, h2 {
+    font-family: 'Courgette', cursive;
+}
+
+h3 {
+  text-shadow: 2px 2px orange;
+  font-size: large;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: maroon;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
