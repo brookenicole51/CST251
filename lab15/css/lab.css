@@ -40,6 +40,10 @@ div.results {
     margin-bottom: 50px;
     box-shadow: 5px orange
 }
+div.box {
+  box-shadow: black;
+  float: right;
+}
 
 img.pumpkin {
     height: auto;
