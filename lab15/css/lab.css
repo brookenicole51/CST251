@@ -37,7 +37,7 @@ div.results {
     box-shadow: 5px orange
 }
 
-div.pumpkinpic {
+div.pumpkin {
     padding: 50px;
     background-color: sienna;
     border: solid 1px #333333;
@@ -46,14 +46,13 @@ div.pumpkinpic {
     filter: drop-shadow(8px 8px 10px black);
 }
 
-div.halloween {
+img.halloween {
     padding: 50px;
     background-color: sienna;
     border: solid 1px #333333;
     height: auto;
-    object-fit: cover;
-    border-radius: 30px;
-    transform: scale(1.5);
+    border-radius: 60px;
+    transform: scale(.5);
 }
 
 
@@ -62,8 +61,8 @@ h1, h2 {
 }
 
 h3 {
-  text-shadow: 2px 2px orange;
-  font-size: large;
+  text-shadow: 4px 4px 4px orange;
+  font-size: 100px;
 }
 
 img {
