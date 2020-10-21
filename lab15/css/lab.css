@@ -7,8 +7,7 @@ body {
 
 div#content {
     padding: 50px;
-    background-image: url(https://media.istockphoto.com/photos/halloween-party-border-picture-id1047657134?k=6&m=1047657134&s=612x612&w=0&h=LPso2-rLsvWjdv0aoD76nFOBPftyDw7jMKlstY3nVeo=);
-    object-fit: contain;
+    background-color: dimgrey;
     border: solid 1px #333333;
     height: auto;
 }
@@ -27,6 +26,10 @@ div.challenges {
     border: solid 1px #333333;
     height: auto;
     box-shadow: 5px orange
+}
+
+div.border {
+  object-fit: contain;
 }
 
 div.results {
