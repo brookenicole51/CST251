@@ -1,13 +1,13 @@
 body {
     font-family: 'Dancing Script', cursive; sans-serif;
-    background-image: linear-gradient(orange, black);
+    background-image: url(https://media.istockphoto.com/photos/halloween-party-border-picture-id1047657134?k=6&m=1047657134&s=612x612&w=0&h=LPso2-rLsvWjdv0aoD76nFOBPftyDw7jMKlstY3nVeo=);
     padding: 50px;
     font-size: 120%;
 }
 
 div#content {
     padding: 50px;
-    background-color: dimgrey;
+    background-image: linear-gradient(orange, black);
     border: solid 1px #333333;
     height: auto;
 }
@@ -48,9 +48,6 @@ img.pumpkin {
 }
 
 img.halloween {
-    padding: 50px;
-    background-color: sienna;
-    border: solid 1px #333333;
     height: auto;
     border-radius: 60px;
     transform: scale(.75);
