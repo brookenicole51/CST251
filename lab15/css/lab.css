@@ -45,6 +45,10 @@ div.box {
   float: right;
 }
 
+img.box {
+  object-fit: cover;
+}
+
 img.pumpkin {
     height: auto;
     float: right;
