@@ -7,7 +7,8 @@ body {
 
 div#content {
     padding: 50px;
-    background-color: #ffcd83cf;
+    background-image: url(lab15/img/border.jpg);
+    object-fit: contain;
     border: solid 1px #333333;
     height: auto;
 }
@@ -38,13 +39,12 @@ div.results {
 }
 
 img.pumpkin {
-    padding: 50px;
-    background-color: sienna;
-    border: solid 1px #333333;
     height: auto;
     float: right;
-    filter: drop-shadow(8px 8px 10px black);
+    filter: drop-shadow(8px 8px 10px orange);
 }
+
+div.
 
 img.halloween {
     padding: 50px;
@@ -52,7 +52,7 @@ img.halloween {
     border: solid 1px #333333;
     height: auto;
     border-radius: 60px;
-    transform: scale(.5);
+    transform: scale(.75);
 }
 
 
