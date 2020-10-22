@@ -20,7 +20,7 @@ div#content {
 }
 
 h1, h2 {
-    font-family: "Courier New", sandybrown;
+    font-family: "Courier New", saddlebrown;
 }
 
 img {
@@ -40,7 +40,7 @@ div.title {
 
 div.icon {
   font-size: 10px;
-  color: sandybrown;
+  color: saddlebrown;
 
 }
 
@@ -50,7 +50,7 @@ img.icon {
 
 a {
     text-decoration: none;
-    color: sandybrown;
+    color: saddlebrown;
 }
 a:hover {
     text-decoration: none;
