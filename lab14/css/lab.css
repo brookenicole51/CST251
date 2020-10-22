@@ -1,43 +1,33 @@
 body {
-    font-family: Helvetica, Verdana, Arial, "san serif";
-    background-image: url(https://images.unsplash.com/photo-1536383389102-0ac333c44981?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: black;
-    padding: 0px;
-    font-size: 120%;
-    letter-spacing: 2px;
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: darkgray;
+    padding: 25px;
+    font-size: 120%;
 }
 
 div#content {
-    background-color: none;
-    height: auto;
+    padding: 50px;
+    background-color: lightgray;
+    border: solid 1px #black;
+    height: auto;
 }
 
 h1, h2 {
-    font-family: "Courier New", monospace;
+    font-family: "Courier New", monospace;
 }
 
 
 img {
-    width: 2%;
-    height: auto;
+    width: 400px;
+    height: auto;
 }
 
-img.title {
-  width: 60%;
-  position: absolute;
-  top: 30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
 
 a {
-    text-decoration: none;
-    color: #964B00;
+    text-decoration: none;
+    color: black;
 }
-
 a:hover {
-    text-decoration: none;
-    text-decoration-style: none;
+    text-decoration: underline;
+    text-decoration-style: wavy;
 }

@@ -1,0 +1,38 @@
+iframe#fake {
+    width: 500px;
+    height: 300px;
+    resize: both;
+    overflow: hidden;
+    background: pink;
+}
+
+
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-image: url(../img/food.jpeg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+
+}
+
+div#content {
+    background-image: none;
+    height: auto;
+}
+
+h1, h2 {
+    font-family: "Courier New", saddlebrown;
+}
+
+img {
+    width: 400px;
+    height: auto;
+
+
+a {
+    text-decoration: none;
+    color: saddlebrown;
+}
+a:hover {
+    text-decoration: none;
+}
