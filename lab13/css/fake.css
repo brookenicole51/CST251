@@ -1,6 +1,15 @@
+iframe#fake {
+    width: 500px;
+    height: 400px;
+    resize: both;
+    overflow: hidden;
+}
+
+
 body {
     font-family: Helvetica, Verdana, Arial, "san serif";
     background-image: url(../img/sky.jpeg);
+    background-repeat: no-repeat;
     font-size: 120%;
 }
 
@@ -10,14 +19,7 @@ div#content {
 }
 
 h1, h2 {
-    font-family: "Courier New", monospace;
-}
-
-iframe#fake {
-    width: 800px;
-    height: 500px;
-    resize: both;
-    overflow: hidden;
+    font-family: "Courier New", sandybrown;
 }
 
 img {
@@ -26,19 +28,29 @@ img {
 }
 
 div.title {
-  display: block;
-  min-width: 640px;
-  width: 100%;
-  margin-left: 50%;
-  margin-right: 50%;
-  background: none;
+    display: block;
+    min-width: 640px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+}
+
+div.icon {
+  font-size: 10px;
+  color: sandybrown;
+
+}
+
+img.icon {
+  width: 10px;
 }
 
 a {
     text-decoration: none;
-    color: maroon;
+    color: sandybrown;
 }
 a:hover {
-    text-decoration: underline;
-    text-decoration-style: wavy;
+    text-decoration: none;
 }
