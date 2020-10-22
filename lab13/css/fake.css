@@ -1,12 +1,11 @@
 body {
     font-family: Helvetica, Verdana, Arial, "san serif";
-    background-image: url(https://images.unsplash.com/photo-1536383389102-0ac333c44981?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80);
-    padding: 0px;
+    background-image: url(../img/sky.jpeg);
     font-size: 120%;
 }
 
 div#content {
-    background-color: none;
+    background-image: none;
     height: auto;
 }
 
