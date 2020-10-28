@@ -10,17 +10,15 @@ div#content {
     background-color: #ffcd83cf;
     border: solid 1px #333333;
     height: auto;
-    animation-name: color;
-    animation-duration: 5s
-}
-
-@keyframes color {
-  from {background-color: #ffcd83cf}
-  to {background-color: tan}
 }
 
 h1, h2 {
     font-family: "cursive", monospace;
+}
+
+div.poem {
+  column-count: 3;
+  font-size: 10px;
 }
 
 img {
