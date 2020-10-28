@@ -10,8 +10,14 @@ div#content {
     background-color: #ffcd83cf;
     border: solid 1px #333333;
     height: auto;
+    animation-name: color;
+    animation-duration: 5s
 }
 
+@keyframes color {
+  from {background-color: #ffcd83cf}
+  to {background-color: tan}
+}
 
 h1, h2 {
     font-family: "cursive", monospace;
@@ -28,16 +34,6 @@ img.engaement:hover {
     width: 300px;
     opacity: 1;
     box-shadow: 10px grey;
-}
-
-img.flower{
-  animation: color;
-  animation-duration: 5s;
-}
-
-@keyframes flower {
-  from {filter: grayscale(100%);}
-  to {filter: grayscale(0%);}
 }
 
 a {
