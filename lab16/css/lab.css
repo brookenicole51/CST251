@@ -22,12 +22,6 @@ img {
     height: auto;
     transition: width 2s;
     opacity: 0.5;
-    animation: move 5s;
-}
-
-@keyframes move {
-  from {left: 0px;}
-  to {left: 200px;}
 }
 
 img.engaement:hover {
@@ -36,7 +30,15 @@ img.engaement:hover {
     box-shadow: 10px grey;
 }
 
-img
+img.flower{
+  animation: color;
+  animation-duration: 5s;
+}
+
+@keyframes flower {
+  from {filter: grayscale(100%);}
+  to {filter: grayscale(0%);}
+}
 
 a {
     text-decoration: none;
