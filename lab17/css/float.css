@@ -1,0 +1,36 @@
+header {
+  display: block;
+  border: solid;
+  width: 100%;
+  height: auto;
+}
+
+nav {
+  display: block;
+  border: solid;
+  width: 25%;
+  height: auto;
+  float: right;
+}
+
+main {
+  display: block;
+  border: solid;
+  width: 70%;
+  height: auto;
+}
+
+aside {
+  display: block;
+  border: solid;
+  width: 30%;
+  height: auto;
+  float: right;
+}
+
+footer {
+  display: block;
+  border: solid;
+  width: 100%;
+  height: auto;
+}
