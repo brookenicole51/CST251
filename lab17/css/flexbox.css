@@ -1,0 +1,36 @@
+header {
+  display: flex;
+  border: none;
+  width: 100%;
+  height: auto;
+}
+
+nav {
+  display: flex;
+  border: none;
+  width: 25%;
+  height: auto;
+  font-size: 14px;
+
+}
+
+main {
+  display: flex;
+  border: none;
+  width: 70%;
+  height: auto;
+}
+
+aside {
+  display: flex;
+  border: none;
+  width: 25%;
+  height: 45%;
+}
+
+footer {
+  display: flex;
+  border: none;
+  width: 100%;
+  height: auto;
+}
