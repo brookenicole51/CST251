@@ -1,36 +1,42 @@
 header {
   display: block;
-  border: solid;
+  border: none;
   width: 100%;
   height: auto;
 }
 
 nav {
   display: block;
-  border: solid;
+  border: none;
   width: 25%;
   height: auto;
-  float: right;
+  position: absolute;
+  top: 83px;
+  right: 78px;
+  font-size: 12px
+
 }
 
 main {
   display: block;
-  border: solid;
+  border: none;
   width: 70%;
   height: auto;
 }
 
 aside {
   display: block;
-  border: solid;
-  width: 30%;
-  height: auto;
-  float: right;
+  border: none;
+  width: 25%;
+  height: 45%;
+  position: absolute;
+  top: 225px;
+  right: 7%;
 }
 
 footer {
   display: block;
-  border: solid;
+  border: none;
   width: 100%;
   height: auto;
 }
