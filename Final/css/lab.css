@@ -1,3 +1,5 @@
+
+
 .navbar {
   overflow: hidden;
   background-color: #0600BE;
@@ -7,7 +9,7 @@
 }
 
 .navbar a {
-  float: right;
+  float: left;
   font-size: 16px;
   color: white;
   text-align: center;
