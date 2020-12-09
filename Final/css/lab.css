@@ -1,11 +1,9 @@
-font-family: halcom,sans-serif;
-font-weight: 800;
-font-style: normal;
-
 .navbar {
   overflow: hidden;
   background-color: #0600BE;
-  font-family: halcom;
+  font-family: halcom,sans-serif;
+  font-weight: 800;
+  font-style: normal;
 }
 
 .navbar a {
